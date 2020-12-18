@@ -38,6 +38,56 @@ alert(`nice, you're ${age} years old, you may enter!`);
 else {
 alert(`you're ${age}. Access denied! `);
 }
+//this is the switch case example
+
+
+// var message= (favDrink)
+// switch (favDrink - prompt ('What's your favorite drink?, Water)); 
+//     case 0:
+//       day = "Beer";
+//       break;
+//     case 1:
+//       day = "Wine";
+//       break;
+//     case 2:
+//        day = "Water";
+//       break;
+//     case 3:
+//       day = "Gatorade";
+//       break;
+//           text = "That is awesome";
+//           break;
+//         case 0:
+//           text = "Wine in";
+//           break;
+//         default:
+//           text = "Stay hydrated!";
+//       }
+      
+//   }
+
+
+
+// var message:
+// var favDrink - prompt ('What's your favorite to go drink?, Water);
+// switch (favDrink) {
+//     case 'Beer':
+//         message = 'Beer  is great sometimes';
+//         nreal'
+//         case 'Cocktail':
+//             message= 'it is so expensive';
+// break;
+//         default:
+//             message = "Oh nice";
+            
+// }
+
+// document.write (message);
+// }
+
+
+
+
 
 // if (age >=18) {
 //   txt = ("You may enter");

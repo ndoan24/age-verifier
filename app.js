@@ -41,30 +41,22 @@ alert(`you're ${age}. Access denied! `);
 //this is the switch case example
 
 
-// var message= (favDrink)
-// switch (favDrink - prompt ('What's your favorite drink?, Water)); 
-//     case 0:
-//       day = "Beer";
-//       break;
-//     case 1:
-//       day = "Wine";
-//       break;
-//     case 2:
-//        day = "Water";
-//       break;
-//     case 3:
-//       day = "Gatorade";
-//       break;
-//           text = "That is awesome";
-//           break;
-//         case 0:
-//           text = "Wine in";
-//           break;
-//         default:
-//           text = "Stay hydrated!";
-//       }
-      
-//   }
+var str = "Beer";
+switch (str) 
+{
+    case "Beer":
+        alert("This is my favorite sometimes berverage");
+    case "90 Shilling":
+        alert("This is my second favorite beer");
+        break;
+    case "Coorslight":
+        alert("This is the third favorite beer");
+        break;
+    default:
+        alert("Unknown beer");
+        break;
+}
+  document.getElementById("h2").innerHTML = str;
 
 
 

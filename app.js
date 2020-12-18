@@ -45,7 +45,7 @@ var str = "Beer";
 switch (str) 
 {
     case "Beer":
-        alert("This is my favorite sometimes berverage");
+        alert("This is my favorite sometimes beverage");
     case "90 Shilling":
         alert("This is my second favorite beer");
         break;
